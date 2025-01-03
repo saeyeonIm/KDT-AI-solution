@@ -1,0 +1,9 @@
+train: C://Users/Admin/Documents/kdtPJ/Documents/kdtPJ/seyeon_YOLOx/YOLOX/datasets/K-Fashion/images/train
+val: C://Users/Admin/Documents/kdtPJ/Documents/kdtPJ/seyeon_YOLOx/YOLOX/datasets/K-Fashion/images/val
+# test:
+
+# number of classes
+nc: 4
+
+# class names
+names: ['상의', '하의', '아우터', '원피스']
